@@ -1,1 +1,4 @@
 # CIS2323_FinalProject_TicTacToe
+a simple Tic Tac Toe Game.
+
+For this project, you will implement a simple Tic Tac Toe game using the Java Swing class. The GUI will consist of a 3x3 panel of buttons representing the board as well as a status text field at the bottom that displays which player’s turn it is and whether a player has won. It will support play between two players and does not need to implement any sort of artificial opponent. It will contain logic that keeps track of which boxes (buttons) are currently empty or occupied with an X or an O. Once a box is occupied with an X or an O, then neither opponent should be able to select that box. Once a player wins the game, then the status bar should display the winner. It will recall that a game is won when a player selects three boxes in a row horizontally, vertically, or diagonally. Some games end in a draw, i.e., no player wins.
